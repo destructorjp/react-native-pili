@@ -2,9 +2,9 @@
  * Created by buhe on 16/5/4.
  */
 import React, {
-    Component,
-    PropTypes
+    Component
 } from 'react';
+import PropTypes from 'prop-types';
 import {
     requireNativeComponent,
     View,
